@@ -17,4 +17,4 @@ We use 'us-counties.csv' data for part 1, and the csv file has to be in the same
 ### For the part 2 calculation, the following file should be run.
 - CA_SIR_Ext_Vax_Fatality.ipynb
 
-We use 'us-counties.csv', 'vax_data.csv', and '2021_US_Region_Mobility_Report.csv'. They have to be in the same directory with the above jupiter notebook.
+We use 'us-counties.csv', 'vax_data.csv', COVID-19_Vaccination_Trends_in_the_United_States_National_and_Jurisdictional.csvand '2021_US_Region_Mobility_Report.csv'. They have to be in the same directory with the above jupiter notebook.
