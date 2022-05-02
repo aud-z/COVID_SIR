@@ -7,3 +7,7 @@
 ## CDC Vaccine 
 - Link: https://data.cdc.gov/Vaccinations/COVID-19-Vaccination-Trends-in-the-United-States-N/rh2h-3yt2r 
 - This data was used in the second part of this analysis to provide greater context to COVID infection rates in the state of California. Our group analyzed a few variables (movement data, masking restrictions, etc.) but found this data from the CDC to be the most reliable and comprehensive.
+
+## Covid-19 Mobility
+- Link: https://www.google.com/covid19/mobility/
+- This data was considered for Part II, but is not used in the final analysis
